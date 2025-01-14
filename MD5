@@ -1,0 +1,7 @@
+55bd699345118696dcdff3e4ef7b03de *DESCRIPTION
+37cc8a0085745930154cd551f9a4d81a *NAMESPACE
+01ad90cc1ea0900364e36f3a450efe2d *R/PLStests.R
+ca2fba6f7a17fc45e334249a087fe18a *R/sonar_mines.R
+b05396636c3dc2ba340b8c21c67ca6b0 *data/sonar_mines.RData
+adee47b782f94b31d86e1d80611b2ba3 *man/PLStests.Rd
+17f10a3f7d2bd0f58db01a05526e5829 *man/sonar_mines.Rd
