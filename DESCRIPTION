@@ -1,7 +1,7 @@
 Package: PLStests
 Type: Package
 Title: Model Checking for High-Dimensional GLMs via Random Projections
-Version: 0.1.0
+Version: 0.1.1
 Maintainer: Wen Chen <tlqdcw@gmail.com>
 Description: Provides methods for testing the goodness-of-fit 
     of generalized linear models (GLMs) using random projections. It is 
@@ -23,7 +23,7 @@ Authors@R:
     )
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-01-12 06:12:50 UTC; Aorus
+Packaged: 2025-03-07 13:04:26 UTC; Aorus
 Author: Wen Chen [aut, cre],
   Jie Liu [aut],
   Heng Peng [aut],
@@ -31,4 +31,4 @@ Author: Wen Chen [aut, cre],
   Lixing Zhu [aut]
 Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-01-14 13:00:02 UTC
+Date/Publication: 2025-03-07 13:30:02 UTC
